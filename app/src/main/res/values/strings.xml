@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Match Reminder</string>
     <string name="hello_world">Hej Velkommen til Match Reminder, her vil du
-        kunne se hvilke kampe der spilles og få en påmindelse om hvornår</string>
+        kunne se hvilke kampe der spilles og få en påmindelse om hvornår Rasmus</string>
     <string name="action_settings">Settings</string>
 </resources>
